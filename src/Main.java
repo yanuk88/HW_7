@@ -4,7 +4,7 @@ public class Main {
         String givenName = "Семён";
         String middleName = "Семёнович";
         String lastName = "Иванов";
-        String fullName = lastName +" " + givenName + " " + middleName;
+        String fullName = lastName + " " + givenName + " " + middleName;
         System.out.println("ФИО сотрудника - " + fullName);
 
         //exercise 2
